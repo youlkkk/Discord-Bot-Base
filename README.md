@@ -1,7 +1,8 @@
 # Discord-Bot-Base
 Base for you're Discord bot.
 
-- 
+- TOKEN is specified in the .env file.
+
 ## 📦 Installation
 
 1. Clone the repository:
